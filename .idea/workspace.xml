@@ -5,18 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de00e00b-1a35-4cf4-bf1e-841fa7c4722c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hutaoascii.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloascii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img2cloorascii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img2txt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fu-1jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/furina-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/furina-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/furina-20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/furina-21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/furina-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/furina-23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/furina-24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/furina-25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/furina-19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/furina-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img2cloorascii.py" beforeDir="false" afterPath="$PROJECT_DIR$/img2cloorascii.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +49,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AHUA-Official"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AHUA-Official/hutaoascii.git",
+    "accountId": "0d1a4202-0809-45bf-826b-9349aaafc134"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -180,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732372186770</updated>
-      <workItem from="1732372188161" duration="4860000" />
+      <workItem from="1732372188161" duration="7139000" />
     </task>
     <servers />
   </component>
@@ -194,6 +222,6 @@
     <SUITE FILE_PATH="coverage/hutaoascii$helloascii.coverage" NAME="helloascii Coverage Results" MODIFIED="1732372254021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hutaoascii$pwd.coverage" NAME="pwd Coverage Results" MODIFIED="1732375773787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hutaoascii$img2txt.coverage" NAME="img2txt Coverage Results" MODIFIED="1732372358627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/hutaoascii$img2cloorascii.coverage" NAME="img2cloorascii Coverage Results" MODIFIED="1732376419484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hutaoascii$img2cloorascii.coverage" NAME="img2cloorascii Coverage Results" MODIFIED="1732379960357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

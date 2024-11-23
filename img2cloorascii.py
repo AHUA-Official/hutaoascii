@@ -5,8 +5,8 @@ import numpy as np
 
 def get_args():
     parser = argparse.ArgumentParser("Image to ASCII")
-    parser.add_argument("--input", type=str, default="data/furina-18.jpg", help="Path to input image")
-    parser.add_argument("--mode", type=str, default="complex", choices=["simple", "complex"],
+    parser.add_argument("--input", type=str, default="data/fu-2.jpg", help="Path to input image")
+    parser.add_argument("--mode", type=str, default="simple", choices=["simple", "complex"],
                         help="10 or 70 different characters")
     parser.add_argument("--num_cols", type=int, default=1500, help="number of character for output's width")
     args = parser.parse_args()
