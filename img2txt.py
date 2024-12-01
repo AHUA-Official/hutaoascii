@@ -9,7 +9,7 @@ import numpy as np
 
 def get_args():
     parser = argparse.ArgumentParser("Image to ASCII")
-    parser.add_argument("--input", type=str, default="data/atc1linghua.jpg", help="Path to input image")
+    parser.add_argument("--input", type=str, default="data/myfurina-22.jpg", help="Path to input image")
     parser.add_argument("--output", type=str, default="data/output.txt", help="Path to output text file")
     parser.add_argument("--mode", type=str, default="simple", choices=["simple", "complex"],
                         help="10 or 70 different characters")
