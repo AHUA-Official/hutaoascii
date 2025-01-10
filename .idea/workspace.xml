@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de00e00b-1a35-4cf4-bf1e-841fa7c4722c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algomodel/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algomodel/no001_linked_list_rerverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algomodel/no002_num2chinese.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algomodel/no003find_least_nums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algomodel/no004interview.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fufu2024-12-03_20-09-31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomdodo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomdodo/loveheart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algomodel/a16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algomodel/asss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algomodel/binsear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algomodel/hebing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algomodel/no005testwordcounter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algomodel/no006showmeit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algomodel/no007mianshiDJIxi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algomodel/reverselinkdlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mians/MiniMAx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mians/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algomodel/no004interview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algomodel/no004interview.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -57,6 +61,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.MiniMAx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.a16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.asss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binsear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hebing.executor&quot;: &quot;Run&quot;,
     &quot;Python.helloascii.executor&quot;: &quot;Run&quot;,
     &quot;Python.img2cloorascii.executor&quot;: &quot;Run&quot;,
     &quot;Python.img2clourfultxt.executor&quot;: &quot;Run&quot;,
@@ -65,11 +74,16 @@
     &quot;Python.no001_linked_list_rerverse.executor&quot;: &quot;Run&quot;,
     &quot;Python.no002_num2chinese.executor&quot;: &quot;Run&quot;,
     &quot;Python.no003find_least_nums.executor&quot;: &quot;Run&quot;,
+    &quot;Python.no005testwordcounter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.no006showmeit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.no007mianshiDJIxi.executor&quot;: &quot;Run&quot;,
     &quot;Python.pwd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverselinkdlist.executor&quot;: &quot;Run&quot;,
     &quot;Python.testsmtp.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaDEV/fufuProject/furinaZL&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,8 +92,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.no003find_least_nums">
-    <configuration name="loveheart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.MiniMAx">
+    <configuration name="MiniMAx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hutaoascii" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,12 +102,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomdodo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mians" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomdodo/loveheart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mians/MiniMAx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="no001_linked_list_rerverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="a16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hutaoascii" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +130,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algomodel/no001_linked_list_rerverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algomodel/a16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="no002_num2chinese" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="asss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hutaoascii" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +153,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algomodel/no002_num2chinese.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algomodel/asss.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="no003find_least_nums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="binsear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hutaoascii" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +176,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algomodel/no003find_least_nums.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algomodel/binsear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testsmtp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverselinkdlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hutaoascii" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algomodel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsmtp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algomodel/reverselinkdlist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.no003find_least_nums" />
-        <item itemvalue="Python.no002_num2chinese" />
-        <item itemvalue="Python.loveheart" />
-        <item itemvalue="Python.no001_linked_list_rerverse" />
-        <item itemvalue="Python.testsmtp" />
+        <item itemvalue="Python.MiniMAx" />
+        <item itemvalue="Python.a16" />
+        <item itemvalue="Python.asss" />
+        <item itemvalue="Python.reverselinkdlist" />
+        <item itemvalue="Python.binsear" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +242,18 @@
       <workItem from="1734196216480" duration="1905000" />
       <workItem from="1734317142302" duration="9377000" />
       <workItem from="1734422567269" duration="62000" />
+      <workItem from="1734677567783" duration="1018000" />
+      <workItem from="1735197353396" duration="3363000" />
+      <workItem from="1735538192958" duration="756000" />
+      <workItem from="1735651365861" duration="966000" />
+      <workItem from="1735732658961" duration="4000" />
+      <workItem from="1735791991620" duration="4304000" />
+      <workItem from="1735900007892" duration="2212000" />
+      <workItem from="1735961454684" duration="96000" />
+      <workItem from="1735971706640" duration="234000" />
+      <workItem from="1736131438874" duration="2131000" />
+      <workItem from="1736321827470" duration="2376000" />
+      <workItem from="1736483817426" duration="804000" />
     </task>
     <servers />
   </component>
@@ -239,14 +265,23 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hutaoascii$helloascii.coverage" NAME="helloascii Coverage Results" MODIFIED="1732372254021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hutaoascii$no003find_least_nums.coverage" NAME="no003find_least_nums Coverage Results" MODIFIED="1734332803393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
+    <SUITE FILE_PATH="coverage/hutaoascii$no006showmeit.coverage" NAME="no006showmeit Coverage Results" MODIFIED="1735538271678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
+    <SUITE FILE_PATH="coverage/hutaoascii$binsear.coverage" NAME="binsear Coverage Results" MODIFIED="1735795431997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
+    <SUITE FILE_PATH="coverage/hutaoascii$MiniMAx.coverage" NAME="MiniMAx Coverage Results" MODIFIED="1736322652282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mians" />
+    <SUITE FILE_PATH="coverage/hutaoascii$loveheart.coverage" NAME="loveheart Coverage Results" MODIFIED="1734196254417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomdodo" />
+    <SUITE FILE_PATH="coverage/hutaoascii$hebing.coverage" NAME="hebing Coverage Results" MODIFIED="1735199946050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
+    <SUITE FILE_PATH="coverage/hutaoascii$reverselinkdlist.coverage" NAME="reverselinkdlist Coverage Results" MODIFIED="1735811882552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
+    <SUITE FILE_PATH="coverage/hutaoascii$asss.coverage" NAME="asss Coverage Results" MODIFIED="1735900286188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
+    <SUITE FILE_PATH="coverage/hutaoascii$no002_num2chinese.coverage" NAME="no002_num2chinese Coverage Results" MODIFIED="1734317397936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
     <SUITE FILE_PATH="coverage/hutaoascii$pwd.coverage" NAME="pwd Coverage Results" MODIFIED="1732759265004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hutaoascii$testsmtp.coverage" NAME="testsmtp Coverage Results" MODIFIED="1732778873081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/hutaoascii$no003find_least_nums.coverage" NAME="no003find_least_nums Coverage Results" MODIFIED="1734332803393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
     <SUITE FILE_PATH="coverage/hutaoascii$img2txt.coverage" NAME="img2txt Coverage Results" MODIFIED="1732759394008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hutaoascii$a16.coverage" NAME="a16 Coverage Results" MODIFIED="1736244564823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
     <SUITE FILE_PATH="coverage/hutaoascii$img2cloorascii.coverage" NAME="img2cloorascii Coverage Results" MODIFIED="1732759340116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/hutaoascii$loveheart.coverage" NAME="loveheart Coverage Results" MODIFIED="1734196254417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomdodo" />
+    <SUITE FILE_PATH="coverage/hutaoascii$no005testwordcounter.coverage" NAME="no005testwordcounter Coverage Results" MODIFIED="1734679193989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
     <SUITE FILE_PATH="coverage/hutaoascii$img2clourfultxt.coverage" NAME="img2clourfultxt Coverage Results" MODIFIED="1732759376439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hutaoascii$no001_linked_list_rerverse.coverage" NAME="no001_linked_list_rerverse Coverage Results" MODIFIED="1734069050257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
-    <SUITE FILE_PATH="coverage/hutaoascii$no002_num2chinese.coverage" NAME="no002_num2chinese Coverage Results" MODIFIED="1734317397936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
+    <SUITE FILE_PATH="coverage/hutaoascii$no007mianshiDJIxi.coverage" NAME="no007mianshiDJIxi Coverage Results" MODIFIED="1735792999768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algomodel" />
   </component>
 </project>
